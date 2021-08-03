@@ -1,0 +1,25 @@
+{
+  "name": "mision-4",
+  "version": "0.0.0",
+  "description": "Misión secreta",
+  "main": "index.js",
+  "author": "José Manuel Gómez Pérez",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "eslint": "^7.31.0",
+    "eslint-plugin-vue": "^7.14.0",
+    "sass": "^1.35.2",
+    "vite": "^2.4.3"
+  }
+}
